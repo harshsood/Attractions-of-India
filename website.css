@@ -1,0 +1,22 @@
+image{
+    margin:10px;
+} 
+ 
+
+h1{    
+  color:Tomato;
+  font-style: italic;
+  font-family: cursive;
+ }
+
+p{
+ color:rgb(82, 72, 72);  
+ font-size: 30px; 
+ font-style: inherit;
+ font-family: Cambria; 
+
+ }   
+
+.p1{
+  color:red;
+}

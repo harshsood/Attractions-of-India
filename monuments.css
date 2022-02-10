@@ -1,0 +1,16 @@
+h1{
+    color:yellowgreen;
+    font-family: Cochin;
+    font-style: inherit;
+}
+li{
+    font-display: black;
+    font-size:24px;
+    font-family: Courier;
+    font-style: inherit;
+}
+p{
+    font-size: 20px;
+    font-family: Cochin; 
+    font-style: italic;
+}

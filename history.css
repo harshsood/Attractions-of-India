@@ -1,0 +1,15 @@
+h1{
+    color: rgb(69, 49, 201);
+    font-style: oblique;
+    font-family: Courier;
+}
+h2{
+    color:rgba(230, 30, 236, 0.87);
+    font-style: oblique;
+    font-family: Courier;
+}
+p{
+    font-size:20px;
+    font-family:Cochin;
+}
+
